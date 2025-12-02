@@ -48,10 +48,6 @@ Este é um jogo roguelike top-down em 2D inspirado em jogos do tipo "survive wav
 * **Invencibilidade curta:** Ao sofrer dano, o jogador recebe um breve cooldown (`hurt_cooldown`) antes de poder ser atingido de novo.
 * **Game Over:** O jogo termina quando a vida do jogador chega a zero.u.
 
-## Assets (necessários)
-
-Coloque os seguintes arquivos/pastas na mesma pasta do `main.py`. Os nomes são importantes — ajuste-os no código se usar nomes diferentes.
-
 ## Bibliotecas Utilizadas
 
 * **Pygame Zero (`pgzrun`)** — framework principal (interface `screen`, `images`, `sounds`, `music`, `keyboard`).
